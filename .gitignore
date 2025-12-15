@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+finalenv/
+venv/
+env/
+
+# Model Artifacts (Too big for GitHub)
+sentiment_model_assets/
+*.joblib
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
