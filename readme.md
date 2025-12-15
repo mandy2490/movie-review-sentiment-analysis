@@ -102,4 +102,4 @@ You can now query this view to see the top-rated movies. Here is an example of t
 | 93074 | Jawan | Atlee | 8 | 3 | 5 | 37.5% | 2.5 |
 | 32976 | Parasite | Bong Joon-ho | 7 | 2 | 5 | 28.6% | 2.1 |
 | 38292 | Everything Everywhere All at Once | Daniels | 4 | 1 | 3 | 25.0% | 2.0 |
-![image] (https://github.com/mandy2490/movie-review-sentiment-analysis/blob/f45dcd317b249e3b9c18403d1427dc4e0a353b34/image.png)
+![Image Alt] (https://github.com/mandy2490/movie-review-sentiment-analysis/blob/f45dcd317b249e3b9c18403d1427dc4e0a353b34/image.png)
